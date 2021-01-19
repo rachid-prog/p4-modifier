@@ -232,7 +232,7 @@ h1 {color: #333333!important;}
 .black-background {background-color: rgba(165, 147, 99, 0.7);padding: 40px 40px 40px 40px;}
 .bold-link {font-weight: 900;text-decoration: underline!important;}
 .bgc-white {background-color: #FFFFFF;}
-.bgc-atomic-tangerine {background:linear-gradient(to left,#000,#fff)}
+.bgc-atomic-tangerine {background:#272727;}
 .tc-white {color: #000!important;}
 .btn-atomic-tangerine {background: #983752;color: #FFFFFF!important;}
 .btn-atomic-tangerine:hover {background: #c27956!important;color: #FFFFFF!important;}
